@@ -17,19 +17,6 @@ Built for the **Coy Software Development Engineer Intern Assignment**.
 - **Dedicated Matches Section**: Browse all mutual matches with timestamps, locations, and bios.
 - **Data Persistence**: Swipes and matches persist across browser reloads using a persistent server-side JSON database.
 
----
-
-## 📸 Screenshots
-
-*(Place application screenshots here)*
-
-| Discover Card Feed | Swipe Feedback (LIKE / PASS) | It's a Match! Celebration |
-|:---:|:---:|:---:|
-| *(Screenshot Placeholder)* | *(Screenshot Placeholder)* | *(Screenshot Placeholder)* |
-
-| Matches Gallery | Blank Home Placeholder | Empty Feed State |
-|:---:|:---:|:---:|
-| *(Screenshot Placeholder)* | *(Screenshot Placeholder)* | *(Screenshot Placeholder)* |
 
 ---
 
