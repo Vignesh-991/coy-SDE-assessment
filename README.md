@@ -1,4 +1,4 @@
-# Coy Discover 💜✨
+# Coy Discover ✨
 
 > A premium, modern dating application inspired by Bumble, Tinder, and Hinge, featuring real-time gesture swiping, mutual matching, strictly privacy-enforced backend architecture, and a mobile-first responsive design.
 
