@@ -19,20 +19,6 @@ Built for the **Coy Software Development Engineer Intern Assignment**.
 
 ---
 
-## 📸 Screenshots
-
-*(Place application screenshots here)*
-
-| Discover Card Feed | Swipe Feedback (LIKE / PASS) | It's a Match! Celebration |
-|:---:|:---:|:---:|
-| *(Screenshot Placeholder)* | *(Screenshot Placeholder)* | *(Screenshot Placeholder)* |
-
-| Matches Gallery | Blank Home Placeholder | Empty Feed State |
-|:---:|:---:|:---:|
-| *(Screenshot Placeholder)* | *(Screenshot Placeholder)* | *(Screenshot Placeholder)* |
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
