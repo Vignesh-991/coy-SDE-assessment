@@ -1,0 +1,302 @@
+[
+  {
+    "id": "profile_1",
+    "name": "Aria Patel",
+    "age": 23,
+    "photo": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80",
+    "bio": "Architectural designer by day, indie concert enthusiast by night. Looking for someone who appreciates pour-over coffee and spontaneous road trips.",
+    "location": "Columbia University, NYC",
+    "interests": ["Architecture", "Indie Music", "Pour-Over Coffee", "Art Galleries"],
+    "verified": true
+  },
+  {
+    "id": "profile_2",
+    "name": "Maya Lin",
+    "age": 22,
+    "photo": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=800&q=80",
+    "bio": "CS & Design student at Stanford. Building thoughtful apps, obsessing over ceramic cups, and always hunting for the best matcha latte in the Bay.",
+    "location": "Stanford University, Palo Alto",
+    "interests": ["Design Systems", "Matcha", "Film Photography", "Bouldering"],
+    "verified": true
+  },
+  {
+    "id": "profile_3",
+    "name": "Lucas Miller",
+    "age": 25,
+    "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=80",
+    "bio": "Product manager who spends weekends restoring 35mm cameras. Tell me your favorite film stock or your most controversial food opinion.",
+    "location": "San Francisco, CA",
+    "interests": ["35mm Film", "Cycling", "Sourdough", "Vinyl"],
+    "verified": true
+  },
+  {
+    "id": "profile_4",
+    "name": "Sofia Rodriguez",
+    "age": 24,
+    "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=800&q=80",
+    "bio": "Marine biology researcher. If I'm not in the lab or diving off Monterey, you can find me reading Murakami in a sunlit corner.",
+    "location": "UC Berkeley, CA",
+    "interests": ["Scuba Diving", "Marine Biology", "Murakami", "Watercolor"],
+    "verified": true
+  },
+  {
+    "id": "profile_5",
+    "name": "Devin Washington",
+    "age": 24,
+    "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=800&q=80",
+    "bio": "Jazz trumpeter and sound designer. Passionate about analog synthesizers, botanical gardens, and cooking dinner for friends.",
+    "location": "Juilliard, NYC",
+    "interests": ["Jazz", "Synths", "Cooking", "Botanical Gardens"],
+    "verified": false
+  },
+  {
+    "id": "profile_6",
+    "name": "Emma Watson-Bauer",
+    "age": 22,
+    "photo": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=800&q=80",
+    "bio": "Literature student & museum guide. I have a curated playlist for every mood and a weakness for second-hand bookstores.",
+    "location": "Harvard University, Cambridge",
+    "interests": ["Poetry", "Bookstores", "Museums", "Espresso"],
+    "verified": true
+  },
+  {
+    "id": "profile_7",
+    "name": "Chloe Dubois",
+    "age": 23,
+    "photo": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?auto=format&fit=crop&w=800&q=80",
+    "bio": "Pastry chef apprentice. Will bake sourdough croissants for you if you can teach me how to surf. Sarcasm is my love language.",
+    "location": "UCLA, Los Angeles",
+    "interests": ["Pastry", "Surfing", "French Cinema", "Sunset Chasing"],
+    "verified": true
+  },
+  {
+    "id": "profile_8",
+    "name": "Kai Tanaka",
+    "age": 25,
+    "photo": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=800&q=80",
+    "bio": "Landscape photographer and trail runner. Looking for someone down for sunrise hikes and debating whether pineapple belongs on pizza (it does).",
+    "location": "University of Washington, Seattle",
+    "interests": ["Trail Running", "Photography", "Camping", "Ramen"],
+    "verified": true
+  },
+  {
+    "id": "profile_9",
+    "name": "Isabella Rossi",
+    "age": 24,
+    "photo": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?auto=format&fit=crop&w=800&q=80",
+    "bio": "Fashion curation & sustainability advocate. Vintage shopping queen. Let's explore modern art museums and swap favorite vinyl records.",
+    "location": "Parsons School of Design, NYC",
+    "interests": ["Vintage Fashion", "Sustainability", "Vinyl", "Modern Art"],
+    "verified": true
+  },
+  {
+    "id": "profile_10",
+    "name": "Aarav Patel",
+    "age": 25,
+    "photo": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=800&q=80",
+    "bio": "Bioengineering grad student. Trying to stay balanced between cutting-edge lab work and training for my next half-marathon.",
+    "location": "Columbia University, NYC",
+    "interests": ["BioTech", "Running", "Board Games", "Street Food"],
+    "verified": true
+  },
+  {
+    "id": "profile_11",
+    "name": "Zoe Kravitz-Vance",
+    "age": 23,
+    "photo": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=800&q=80",
+    "bio": "Interior stylist with a serious plant collection (42 and counting). Looking for someone to attend pottery workshops with me.",
+    "location": "Austin, TX",
+    "interests": ["Ceramics", "Houseplants", "Yoga", "Flea Markets"],
+    "verified": false
+  },
+  {
+    "id": "profile_12",
+    "name": "Noah Sterling",
+    "age": 26,
+    "photo": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=800&q=80",
+    "bio": "Fintech engineer by weekday, ski instructor on snowy weekends. Looking for someone with an adventurous spirit and a warm smile.",
+    "location": "Boulder, CO",
+    "interests": ["Skiing", "Fintech", "Dog Lover", "Craft Beer"],
+    "verified": true
+  },
+  {
+    "id": "profile_13",
+    "name": "Ananya Sharma",
+    "age": 22,
+    "photo": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=800&q=80",
+    "bio": "Journalism major with a penchant for investigative reporting. Love handwritten letters, late night conversations, and rooftop cityscapes.",
+    "location": "Northwestern University, Evanston",
+    "interests": ["Journalism", "City Walking", "Podcasts", "Chai"],
+    "verified": true
+  },
+  {
+    "id": "profile_14",
+    "name": "Zainab Al-Mansoor",
+    "age": 24,
+    "photo": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=800&q=80",
+    "bio": "Aerospace robotics PhD candidate at MIT. Building drones by day, stargazing through telescopes by night. Can predict meteor showers.",
+    "location": "MIT, Cambridge",
+    "interests": ["Robotics", "Astronomy", "Sci-Fi", "Espresso"],
+    "verified": true
+  },
+  {
+    "id": "profile_15",
+    "name": "Mateo Silva",
+    "age": 25,
+    "photo": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=crop&w=800&q=80",
+    "bio": "Documentary filmmaker. Currently working on a film about urban biodiversity. Tell me the story that changed your life.",
+    "location": "NYU Tisch, NYC",
+    "interests": ["Documentaries", "Directing", "Storytelling", "Espresso"],
+    "verified": false
+  },
+  {
+    "id": "profile_16",
+    "name": "Hannah Bergström",
+    "age": 23,
+    "photo": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=800&q=80",
+    "bio": "Scandinavian minimal living enthusiast and UX researcher. Will introduce you to the concept of 'fika' and the best cinnamon buns.",
+    "location": "University of Chicago, IL",
+    "interests": ["UX Design", "Nordic Culture", "Baking", "Cycling"],
+    "verified": true
+  },
+  {
+    "id": "profile_17",
+    "name": "Ethan Cole",
+    "age": 24,
+    "photo": "https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?auto=format&fit=crop&w=800&q=80",
+    "bio": "Clean tech entrepreneur. Fan of outdoor rock climbing, electric motorcycles, and obscure historical trivia.",
+    "location": "Stanford, Palo Alto",
+    "interests": ["CleanTech", "Bouldering", "History", "Coffee"],
+    "verified": true
+  },
+  {
+    "id": "profile_18",
+    "name": "Rhea Kapoor",
+    "age": 23,
+    "photo": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=800&q=80",
+    "bio": "Public health advocate and classical Kathak dancer. Love golden hour lighting, farmer's markets, and finding hidden speakeasies.",
+    "location": "Johns Hopkins, Baltimore",
+    "interests": ["Dance", "Public Health", "Farmer's Markets", "Speakeasies"],
+    "verified": true
+  },
+  {
+    "id": "profile_19",
+    "name": "Marcus Vance",
+    "age": 26,
+    "photo": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&w=800&q=80",
+    "bio": "Game developer & digital artist. Dreamer of fantastical worlds. Always up for board game nights or a deep dive into philosophy.",
+    "location": "UT Austin, TX",
+    "interests": ["Game Design", "Pixel Art", "Philosophy", "Live Music"],
+    "verified": true
+  },
+  {
+    "id": "profile_20",
+    "name": "Camille Laurent",
+    "age": 24,
+    "photo": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=800&q=80",
+    "bio": "Sommelier in training & food writer. If we match, I will pair your favorite comfort meal with the perfect wine.",
+    "location": "San Francisco, CA",
+    "interests": ["Wine Tasting", "Food Writing", "Cooking", "Travel"],
+    "verified": false
+  },
+  {
+    "id": "profile_21",
+    "name": "Liam Chen",
+    "age": 24,
+    "photo": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=crop&w=800&q=80",
+    "bio": "Hardware hacker, cyclist, and mechanical watch collector. Learning how to cook authentic ramen from scratch.",
+    "location": "UC Berkeley, CA",
+    "interests": ["Hardware", "Cycling", "Ramen", "Mechanical Watches"],
+    "verified": true
+  },
+  {
+    "id": "profile_22",
+    "name": "Serena Thorne",
+    "age": 22,
+    "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=800&q=80",
+    "bio": "Violinist with the university symphony. Lover of rainy afternoons, Earl Grey tea, and 80s synth-wave.",
+    "location": "Eastman School of Music, NY",
+    "interests": ["Violin", "Classical Music", "Synthwave", "Tea"],
+    "verified": true
+  },
+  {
+    "id": "profile_23",
+    "name": "Elena Rossi",
+    "age": 23,
+    "photo": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80",
+    "bio": "Art curator and film enthusiast. My superpower is picking the movie everyone ends up loving. Let's get gelato and talk cinema.",
+    "location": "Harvard University, Cambridge",
+    "interests": ["Cinema", "Curating", "Gelato", "Photography"],
+    "verified": true
+  },
+  {
+    "id": "profile_24",
+    "name": "Jordan Blake",
+    "age": 25,
+    "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=80",
+    "bio": "Landscape architect specializing in rooftop sanctuaries. If you love plants and city skylines, we will get along great.",
+    "location": "Philadelphia, PA",
+    "interests": ["Green Roofs", "Botany", "Kayaking", "Podcasts"],
+    "verified": true
+  },
+  {
+    "id": "profile_25",
+    "name": "Talia Mor",
+    "age": 24,
+    "photo": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=800&q=80",
+    "bio": "Cognitive neuroscience researcher studying memory and creativity. Also an amateur ceramicist and matcha fanatic.",
+    "location": "Princeton University, NJ",
+    "interests": ["Neuroscience", "Ceramics", "Matcha", "Psychology"],
+    "verified": true
+  },
+  {
+    "id": "profile_26",
+    "name": "Kofi Mensah",
+    "age": 26,
+    "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=800&q=80",
+    "bio": "Afrobeats DJ and fintech developer. Big believer in energetic dancing, warm climates, and genuine laughter.",
+    "location": "Atlanta, GA",
+    "interests": ["Afrobeats", "DJing", "Fitness", "Tech Startups"],
+    "verified": true
+  },
+  {
+    "id": "profile_27",
+    "name": "Mira Sorvino",
+    "age": 23,
+    "photo": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?auto=format&fit=crop&w=800&q=80",
+    "bio": "Astrophysics student obsessed with black hole thermodynamics. Looking for someone to stargaze with and debate the multiverse.",
+    "location": "Caltech, Pasadena",
+    "interests": ["Astrophysics", "Stargazing", "Board Games", "Espresso"],
+    "verified": false
+  },
+  {
+    "id": "profile_28",
+    "name": "Gabriel Santos",
+    "age": 25,
+    "photo": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=800&q=80",
+    "bio": "Brazilian Jiu-Jitsu instructor and acoustic guitarist. Passionate about mindful movement, good food, and good conversation.",
+    "location": "Miami, FL",
+    "interests": ["Martial Arts", "Acoustic Guitar", "Surfing", "Nutrition"],
+    "verified": true
+  },
+  {
+    "id": "profile_29",
+    "name": "Nadia O'Connor",
+    "age": 22,
+    "photo": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?auto=format&fit=crop&w=800&q=80",
+    "bio": "Graphic designer with a passion for typography and risograph printing. Lover of old bookstores, museums, and cold brew.",
+    "location": "RISD, Providence",
+    "interests": ["Typography", "Risograph", "Cold Brew", "Museums"],
+    "verified": true
+  },
+  {
+    "id": "profile_30",
+    "name": "Julian Hayes",
+    "age": 25,
+    "photo": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=800&q=80",
+    "bio": "Environmental lawyer fighting for river conservation. Enjoys fly fishing, cabin weekends, and making killer pasta carbonara.",
+    "location": "Yale University, New Haven",
+    "interests": ["Environmental Law", "Fly Fishing", "Cooking", "Outdoors"],
+    "verified": true
+  }
+]

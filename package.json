@@ -1,0 +1,14 @@
+{
+  "name": "coy-discover",
+  "version": "1.0.0",
+  "description": "Coy Discover — Modern Full-Stack Dating Application",
+  "scripts": {
+    "server": "node server/src/server.js",
+    "client": "npm run dev --prefix client",
+    "test:server": "node server/test-api.js",
+    "build:client": "npm run build --prefix client"
+  },
+  "keywords": ["dating-app", "react", "express", "vite", "framer-motion", "lucide-react"],
+  "author": "Coy SDE Candidate",
+  "license": "MIT"
+}
